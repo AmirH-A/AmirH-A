@@ -9,4 +9,4 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="mailto:amirh.eth@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-amirh.eth@gmail.com-black?style=flat&logo=maildotru&logoColor=white"/></a>
+<a href="mailto:amirh.eth@gmail.com"><img src="https://img.shields.io/badge/-amirh.eth@gmail.com-black?style=flat&logo=maildotru&logoColor=white"/></a>
