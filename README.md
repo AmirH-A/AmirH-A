@@ -1,4 +1,4 @@
-### ⚙️ &nbsp;GitHub Analytics
+### 📈 &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AmirH-A">
@@ -7,6 +7,6 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 📝 &nbsp;Connect with Me
 
 <a href="mailto:amirh.eth@gmail.com"><img src="https://img.shields.io/badge/-amirh.eth@gmail.com-black?style=flat&logo=maildotru&logoColor=white"/></a>
