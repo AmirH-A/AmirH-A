@@ -4,7 +4,6 @@ This is Amir
 
 - 🔭 Software Engineer, Blockchain Researcher, Entrepreneur
 - ⛵ **Areas of Interest**: Privacy, Layer 2, ZKP, DeFi, scalability
-- 📫 **Contact**: (amirh.eth@gmail.com), [Telegram](https://t.me/einsteineum)
 
 ---
 ### 🏗️ Current Occupation 
