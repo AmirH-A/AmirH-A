@@ -7,7 +7,7 @@ This is Amir
 
 ---
 ### 🏗️ Current Occupation 
-  - 💻 Serving as a software engeneer in **Nobitex**.
+  - 💻 Serving as a Software Engineer in **Nobitex**.
   - 💻 Serving as Co-founder & Tech-lead in **Fundesci**
 
 ---
