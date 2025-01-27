@@ -21,3 +21,10 @@ This is Amir
   - 🎯 Contributed to the development of an on-chain order book for decentralized exchanges.
   
 - 💼 Also i enjoy building different projects from zero (a small entrepreneur) in this regard, several start-ups in different fields, including nft market place and decentralized social media, and of course my last child, whom I love very much, in the field of decentralized science, @fundesci
+
+---
+### 📧 Contact
+
+Feel free to reach out for inquiries or collaborations:
+
+📧 [amirh.eth@gmail.com](mailto:amirh.eth@gmail.com)
