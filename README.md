@@ -3,7 +3,7 @@
 This is Amir
 
 - 🔭 Software Engineer, Blockchain Researcher, Entrepreneur
-- ⛵ **Areas of Interest**: Privacy, Layer 2, ZKP, DeFi, Scalability
+- ⛵ **Areas of Interest**: Privacy, Layer 2, ZKP, DeFi, Scalability + Maybe AI in the future :) 
 
 ---
 ### 🏗️ Current Occupation 
@@ -16,11 +16,11 @@ This is Amir
 - **Protocol design - Wallet Systems & Research**  
   - 💼 Worked as Software Engineer & Blockchain Researcher for more than 3 years in a high-scale crypto exchanges environment, focusing on on-chain privacy, scaling up the wallet format of platform, and building innovative things :).
 - **Smartcontract Engineering**
-  - 💼 Worked as Smart contract Enginner in large scale NFT market place.
+  - 💼 Worked as SmartContract Enginner in large scale NFT market place.
 - **OrderBook Based DEX**  
-  - 🎯 Contributed to the development of an on-chain order book for decentralized exchanges.
+  - 🎯 Contributed to the development of an on-chain order book for decentralized exchange.
   
-- 💼 Also i enjoy building different projects from zero (a small entrepreneur) in this regard, several start-ups in different fields, including nft market place and decentralized social media, and of course my last child, whom I love very much, in the field of decentralized science, @fundesci
+- 💼 Also i enjoy building different projects from zero (a small entrepreneur) in this regard, several start-ups in different fields, including nft marketplace and decentralized social media, and of course my last child, whom I love very much, in the field of decentralized science, @fundesci
 
 ---
 ### 📧 Contact
