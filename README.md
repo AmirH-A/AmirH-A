@@ -17,6 +17,8 @@ This is Amir
   - 💼 Worked as Software Engineer & Blockchain Researcher for more than 3 years in a high-scale crypto exchanges environment, focusing on on-chain privacy, scaling up the wallet format of platform, and building innovative things :).
 - **Smartcontract Engineering**
   - 💼 Worked as SmartContract Enginner in large scale NFT market place.
+- **Protocol Researcher **
+  - 💼 Working as a Protocol Researcher - Deeply examining protocols and helping to expand the knowledge gained.
 - **OrderBook Based DEX**  
   - 🎯 Contributed to the development of an on-chain order book for decentralized exchange.
   
