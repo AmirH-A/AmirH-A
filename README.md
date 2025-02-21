@@ -11,7 +11,7 @@ This is Amir
   - 💻 Serving as Co-founder & Tech-lead in **Fundesci**
 
 ---
-### 🗂️ Previous Experience
+### 📜 Previous Experience
   
 - **Protocol design - Wallet Systems & Research**  
   - 💼 Worked as Software Engineer & Blockchain Researcher for more than 3 years in a high-scale crypto exchanges environment, focusing on on-chain privacy, scaling up the wallet format of platform, and building innovative things :).
