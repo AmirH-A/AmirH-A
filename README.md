@@ -7,7 +7,7 @@ This is Amir
 
 ---
 ### 🏗️ Current Occupation 
-  - 💻 Serving as a Software Engineer in **Soundness**.
+  - 💻 Serving as a Software Engineer in **SoundnessLabs**
   - 💻 Serving as Co-founder & Tech-lead in **Fundesci**
 
 ---
