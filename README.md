@@ -7,7 +7,7 @@ This is Amir
 
 ---
 ### 🏗️ Current Occupation 
-  - 💻 Serving as a Software Engineer in **High-Scale centralized crypto exchange**.
+  - 💻 Serving as a Software Engineer in **Soundness**.
   - 💻 Serving as Co-founder & Tech-lead in **Fundesci**
 
 ---
