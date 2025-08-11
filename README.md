@@ -3,7 +3,7 @@
 This is Amir
 
 - 🔭 Software Engineer, Blockchain Researcher, Entrepreneur
-- ⛵ **Areas of Interest**: Privacy, Layer 2, ZKP, DeFi, Scalability, Build softwares from scratch XD + Maybe AI in the future :) 
+- ⛵ **Areas of Interest**: Privacy, Layer 2, ZKP, DeFi, Scalability, Build software from scratch XD + Maybe AI in the future :) 
 
 ---
 ### 🏗️ Current Occupation 
