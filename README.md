@@ -13,16 +13,23 @@ This is Amir
 ---
 ### 📜 Previous Experience
   
-- **Protocol design - Wallet Systems & Research**  
-  - 💼 Worked as Software Engineer & Blockchain Researcher for more than 3 years in a high-scale crypto exchanges environment, focusing on on-chain privacy, scaling up the wallet format of platform, and building innovative things :).
-- **Smartcontract Engineering**
-  - 💼 Worked as SmartContract Enginner in large scale NFT market place.
-- **Protocol Researcher**
-  - 💼 Working as a Protocol Researcher - Deeply examining protocols and helping to expand the knowledge gained.
-- **OrderBook Based DEX**  
-  - 🎯 Contributed to the development of an on-chain order book for decentralized exchange.
-  
-- 💼 Also i enjoy building different projects from zero (a small entrepreneur) in this regard, several start-ups in different fields including nft marketplace and decentralized social media and of course my last child whom I love very much in the field of decentralized science @fundesci
+- **Rust Software Engineer (ZKP Systems)** @ Soundness Labs (2025 – Present)  
+  Contributing to SNARK-friendly libraries, designing ZK circuits, and integrating proof systems into trustless protocols.
+
+- **Tech Lead / Smart Contract Engineer** @ FunDeSci (2023 – Present)  
+  Leading tech architecture, CI/CD, and protocol design for a decentralized science funding platform.
+
+- **Blockchain Engineer (Labs Team)** @ Large-Scale CEX (2022 – 2025)  
+  Delivered enterprise wallet systems (–35% EVM costs), first-ever Proof of Reserve, and account abstraction research.
+
+- **Smart Contract Engineer / Researcher** @ TeleportDAO  
+  Developed Uniswap v3-based yield farming and researched BTC–EVM fee reduction methods.
+
+- **Co-founder / Blockchain Integration Engineer** @ Colectomy (2021 – 2022)  
+  Built a decentralized NFT music marketplace supporting multiple chains.
+
+- **DeFi Researcher / Software Developer** (2019 – 2021)  
+  Early work in DeFi protocols and blockchain applications.
 
 ---
 ### 📧 Contact
