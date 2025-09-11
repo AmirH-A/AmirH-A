@@ -8,7 +8,6 @@ This is Amir
 ---
 ### 🏗️ Current Occupation 
   - 💻 Serving as a Software Engineer in **SoundnessLabs**
-  - 💻 Serving as Co-founder & Tech-lead in **Fundesci**
 
 ---
 ### 📜 Previous Experience
@@ -16,7 +15,7 @@ This is Amir
 - **Rust Software Engineer (ZKP Systems)** @ Soundness Labs (2025 – Present)  
   Contributing to SNARK-friendly libraries, designing ZK circuits, and integrating proof systems into trustless protocols.
 
-- **Tech Lead / Smart Contract Engineer** @ FunDeSci (2023 – Present)  
+- **Tech Lead / Smart Contract Engineer** @ FunDeSci (2023 – 2025)  
   Leading tech architecture, CI/CD, and protocol design for a decentralized science funding platform.
 
 - **Blockchain Engineer (Labs Team)** @ Large-Scale CEX (2022 – 2025)  
