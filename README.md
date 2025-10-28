@@ -7,7 +7,6 @@ This is Amir
 
 ---
 ### 🏗️ Current Occupation 
-  - 💻 Serving as a Software Engineer in **SoundnessLabs**
 
 ---
 ### 📜 Previous Experience
