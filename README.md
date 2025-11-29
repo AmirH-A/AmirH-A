@@ -18,7 +18,7 @@ This is Amir
   Leading tech architecture, CI/CD, and protocol design for a decentralized science funding platform.
 
 - **Blockchain Engineer (Labs Team)** @ Large-Scale CEX (2022 – 2025)  
-  Delivered enterprise wallet systems (–35% EVM costs), first-ever Proof of Reserve, and account abstraction research.
+  Delivered enterprise wallet systems (–35% EVM costs), first-ever Proof of Reserve, delivered DeFi platforms like DEX and etc and account abstraction research.
 
 - **Smart Contract Engineer / Researcher** @ TeleportDAO  
   Developed Uniswap v3-based yield farming and researched BTC–EVM fee reduction methods.
