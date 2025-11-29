@@ -11,7 +11,7 @@ This is Amir
 ---
 ### 📜 Previous Experience
   
-- **Rust Software Engineer (ZKP Systems)** @ Soundness Labs (2025 – Present)  
+- **Rust Software Engineer (ZKP Systems)** @ Soundness Labs 
   Contributing to SNARK-friendly libraries, designing ZK circuits, and integrating proof systems into trustless protocols.
 
 - **Tech Lead / Smart Contract Engineer** @ FunDeSci (2023 – 2025)  
