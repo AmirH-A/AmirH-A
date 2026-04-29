@@ -16,6 +16,9 @@ This is Amir
 - **Rust Software Engineer (ZKP Systems)** @ Soundness Labs 
   Contributing to SNARK-friendly libraries, designing ZK circuits, and integrating proof systems into trustless protocols.
 
+- **Full-Stack Software Engineer (Solana / Prediction Markets)** @ Inframarkets  
+  Architecting and developing a decentralized prediction market platform focused on energy markets on Solana. Working across smart contracts (Rust, PDAs), backend infrastructure, and frontend applications. Built secure onboarding systems (invite-code access) and scalable integrations between on-chain and off-chain components.
+
 - **Tech Lead / Smart Contract Engineer** @ FunDeSci (2023 – 2025)  
   Leading tech architecture, CI/CD, and protocol design for a decentralized science funding platform.
 
