@@ -9,7 +9,6 @@ This is Amir
 ### 🏗️ Current Occupation 
 
 - Building Protocols at 3AM So Others Can Sleep Trustlessly
-- Inframarkets.io
 
 ---
 ### 📜 Previous Experience
